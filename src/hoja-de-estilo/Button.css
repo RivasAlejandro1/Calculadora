@@ -1,0 +1,27 @@
+.calculadora-Button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1 1 ;
+
+
+
+    background-color: #121223;
+    border: 2px solid white;
+    color: white;
+    border-radius: 25px;
+
+    margin: 0 2px;
+    height: 60px;
+
+    font-size: 1.6em;
+    font-weight: bold;
+
+    user-select: none;
+
+    
+}
+
+.calculadora-Button:hover{
+    background-color: #991212;
+}

@@ -1,0 +1,22 @@
+.calculadora-reset{
+    width: 100%;
+    height: 80px;
+    background-color: #cc4444;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    border: 2px solid white;
+    border-radius: 25px;
+
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+
+    user-select: none;
+}
+
+.calculadora-reset:hover{
+    background-color: green;
+}
